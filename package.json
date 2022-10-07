@@ -41,7 +41,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "rehype-katex": "5",
-    "remark-math": "3",
+    "remark-math": "5",
     "sass": "^1.55.0"
   },
   "browserslist": {
@@ -59,7 +59,7 @@
   "devDependencies": {
     "@okp4/eslint-config": "^1.1.0",
     "docusaurus-plugin-drawio": "^0.1.7",
-    "graphviz-react": "^1.2.1",
+    "graphviz-react": "^1.2.5",
     "markdownlint-cli": "^0.32.2",
     "prettier": "^2.7.1",
     "stylelint": "^14.13.0",
